@@ -11,4 +11,4 @@ let s = "leetcode";
 // Output: 0
 console.log(firstUniqChar(s));
 console.log(firstUniqChar("loveleetcode"));
-console.log(firstUniqChar("aabb"));
+console.log(firstUniqChar("aabb"));  
